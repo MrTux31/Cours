@@ -1,0 +1,7 @@
+takeoff
+up 150
+forward 400
+right 400
+back 400
+left 400
+land
